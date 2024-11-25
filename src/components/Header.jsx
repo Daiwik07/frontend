@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Images } from '../Images/Images';
+import { Images } from '../images/Images';
 import { motion } from 'framer-motion';
 import { ScrollRestoration } from 'react-router-dom';
 

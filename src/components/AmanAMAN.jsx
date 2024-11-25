@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import { motion, useInView } from 'framer-motion';
-import { Images } from '../Images/Images';
+import { Images } from '../images/Images';
 import { ScrollRestoration } from 'react-router-dom';
 
 const Section = ({ children, delay = 0 }) => {
